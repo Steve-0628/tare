@@ -1,0 +1,16 @@
+{
+    "note": "Edit and rename to config.json",
+    "git":{
+        "repo": "https://github.com/your-name/your-repo"
+    },
+    "configs": [
+        {
+            "name": "name_of_config",
+            "path": "/path/to/your/config.cfg"
+        },
+        {
+            "name": "config2",
+            "path": "/mnt/c/Users/your-name/some/more/path/config.json"
+        }
+    ]
+}
