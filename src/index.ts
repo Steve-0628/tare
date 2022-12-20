@@ -47,6 +47,7 @@ class Tare{
         }
 
     }
+
     printHelp(additionalInfo: String = "") {
         console.log(additionalInfo)
         console.log("Usage: yarn start [ pull | push | collect | help ]")
@@ -57,6 +58,12 @@ class Tare{
         console.log("  help     Showes this help")
 
     }
+
+    initGit(){
+        
+    }
+
+
 }
 
 const Tare1 = new Tare();
